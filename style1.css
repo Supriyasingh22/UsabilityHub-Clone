@@ -1,0 +1,117 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;400&family=Roboto:ital,wght@0,700;1,400&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color:#f9fafb ;
+}
+
+.container{
+    background-color: white;
+
+}
+.image-header{
+
+    direction: flex;
+    width: 200px;
+    margin-block: 10px;
+
+}
+.welcome-section
+{
+    margin-top: 1%;
+}
+.welcome-section h2{
+    margin-left: 40%;
+    font-size: 180%;
+}
+.card{
+    margin-top: 2%;
+    display: flex;
+    
+    justify-content: center;
+}
+.inner-box{
+    width: 400px;
+    height: 500px;
+    background-color: white;
+    border-radius: 1rem;
+    border: 1px solid rgb(138, 138, 138);
+    
+}
+.form-group{
+    margin-top: 3%;
+}
+.form-group label{
+    
+    margin-left: 5%;
+    padding-block: 4px;
+   
+}
+.form-control{
+
+ width: 90%;
+ height: 40px;
+ background:white;
+ border-radius: 4px ;
+
+ border: 1px solid silver;
+ margin: 10px 0 18px 0;
+ padding: 0 10px;
+ margin-left: 5%;
+
+}
+.seperate{
+    display: flex;
+    margin-left: 5%;
+    margin-right: 5%;
+    justify-content: space-between;
+
+}
+.forget{
+
+}
+.button{
+    width: 90%;
+    height: 35px;
+    background-color: rgb(143, 182, 255);
+    color: white;
+    margin-left: 5%;
+    border-radius: 4px;
+    border: none;
+    margin-top: 9%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 200;
+    transition: 0.2s ease-out;
+}
+.button:hover{
+    background-color: rgb(107, 107, 233);
+}
+.text{
+
+    display: flex;
+    justify-content: center;
+    margin-block: 5%;
+    color: rgb(97, 97, 97);
+}
+
+.button2{
+
+    width: 40%;
+    height: 35px;
+    background-color: #f9fafb;
+    color: black;
+    border: none;
+    margin-left: 30%;
+    border-radius: 4px;
+    transition: 0.3s ease-out;
+ }
+ .font{
+    margin-right: 5%;
+ }
+ .button2:hover{
+    background-color: rgb(139, 139, 139);
+
+ }
