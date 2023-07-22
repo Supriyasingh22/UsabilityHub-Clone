@@ -1,2 +1,2 @@
 # UsabilityHub-clone
-clone of website named UsabiltyHub 
+created a  website named UsabiltyHub 
