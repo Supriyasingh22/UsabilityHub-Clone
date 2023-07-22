@@ -1,2 +1,2 @@
 # UsabilityHub-clone
-created a  website named UsabiltyHub 
+created a Fronted-part website named UsabiltyHub consisiting of a login page.
